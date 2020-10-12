@@ -19,3 +19,5 @@ My name is Gabriel, i always try to acquire new knowledge and improve what I alr
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/gabriel-monteiro-978aa8189/)](https://www.linkedin.com/in/gabriel-monteiro-978aa8189/) 
 [![E-mail](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielmont713@gmail.com)](mailto:gabrielmont713@gmail.com) 
+
+![Gabriel Monteiro's github stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Monteiro7&show_icons=true&theme=nord)
