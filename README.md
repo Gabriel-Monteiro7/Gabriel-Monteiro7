@@ -1,6 +1,6 @@
 <h1 align="center">
 <!-- <img src="https://github.com/arielff3/arielff3/blob/master/.github/dev2.gif?raw=true" alt="dev2" width="150px" /> -->
-<img src="https://github.com/arielff3/arielff3/blob/master/.github/react.gif?raw=true" alt="react" width="150px" /> 
+<img src="https://user-images.githubusercontent.com/38410548/101631463-1ebdcc00-3a03-11eb-8637-a24671300a74.gif" alt="react" width="150px" /> 
 <!-- <img src="https://github.com/arielff3/arielff3/blob/master/.github/dev.gif?raw=true" alt="dev" width="150px" /> -->
 
 </h1>
