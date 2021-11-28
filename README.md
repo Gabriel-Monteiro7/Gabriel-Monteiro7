@@ -7,15 +7,13 @@
 
 <h1 align="center"> Gabriel Monteiro :coffee: </h1>
 
-My name is Gabriel, i always try to acquire new knowledge and improve what I already have
+My name is Gabriel and I am always looking for new learning and opportunities
 
 - 📚 I'm Computer Science student at Federal Institute of Ceará - Brazil
-- 🔭 I am currently looking for new opportunities
-- 🌱 I’m currently learning javascript (ReactJS, React Native, Node, Angular 2+ and more... :rocket:) 🛢💻📱
-- 📫 If you want to talk to me, click on the options above and call me by chat 💬
+- 👨‍💻 I’m currently learning javascript (ReactJS, React Native and more... :rocket:)
 
 
-## How to reach me :mailbox_with_no_mail:
+## 
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/gabriel-monteiro-978aa8189/)](https://www.linkedin.com/in/gabriel-monteiro-978aa8189/) 
 [![E-mail](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielmont713@gmail.com)](mailto:gabrielmont713@gmail.com) 
